@@ -1,0 +1,76 @@
+[2] Time: 1538197132.465288
+[5] Time: 1538197132.466568
+[1] Time: 1538197132.467866
+[7] Time: 1538197132.469017
+[3] Time: 1538197132.469387
+[6] Time: 1538197132.470629
+[4] Time: 1538197132.471662
+[12] Time: 1538197132.517155
+[14] Time: 1538197132.517919
+[11] Time: 1538197132.518888
+[15] Time: 1538197132.519154
+[8] Time: 1538197132.522104
+[9] Time: 1538197132.522355
+[16] Time: 1538197132.764055
+[19] Time: 1538197132.765313
+[21] Time: 1538197132.768761
+[23] Time: 1538197132.772507
+[13] Time: 1538197132.540650
+[10] Time: 1538197132.543353
+[18] Time: 1538197132.774491
+[20] Time: 1538197132.791757
+[17] Time: 1538197132.792240
+[22] Time: 1538197132.794234
+[25] Time: 1538197132.962528
+[26] Time: 1538197132.971544
+[28] Time: 1538197132.975268
+[30] Time: 1538197132.979205
+[29] Time: 1538197132.983941
+[24] Time: 1538197132.996212
+[27] Time: 1538197132.997482
+[31] Time: 1538197132.997988
+[0] Time: 1538197132.999713
+Time: 0.538402
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 18793 RUNNING AT cn10-comp
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions

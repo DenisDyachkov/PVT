@@ -1,0 +1,82 @@
+[4] Time: 1538197013.487543
+[1] Time: 1538197013.488475
+[3] Time: 1538197013.489073
+[5] Time: 1538197013.489073
+[6] Time: 1538197013.489255
+[7] Time: 1538197013.489623
+[2] Time: 1538197013.490382
+[11] Time: 1538197013.493774
+[8] Time: 1538197013.493836
+[9] Time: 1538197013.493891
+[12] Time: 1538197013.493932
+[10] Time: 1538197013.493979
+[13] Time: 1538197013.494097
+[15] Time: 1538197013.494097
+[24] Time: 1538197013.501831
+[25] Time: 1538197013.501419
+[27] Time: 1538197013.501419
+[29] Time: 1538197013.501552
+[31] Time: 1538197013.501552
+[28] Time: 1538197013.502059
+[30] Time: 1538197013.502206
+[0] Time: 1538197013.499413
+Time: 0.011034
+[14] Time: 1538197013.494479
+[16] Time: 1538197013.492753
+[17] Time: 1538197013.492574
+[19] Time: 1538197013.492589
+[20] Time: 1538197013.492930
+[21] Time: 1538197013.492570
+[22] Time: 1538197013.492899
+[23] Time: 1538197013.492864
+[18] Time: 1538197013.493081
+[26] Time: 1538197013.502452
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 23858 RUNNING AT cn18-comp
+=   EXIT CODE: 139
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+[proxy:0:3@cn10] HYD_pmcd_pmip_control_cmd_cb (pm/pmiserv/pmip_cb.c:887): assert (!closed) failed
+[proxy:0:3@cn10] HYDT_dmxu_poll_wait_for_event (tools/demux/demux_poll.c:76): callback returned error status
+[proxy:0:3@cn10] main (pm/pmiserv/pmip.c:202): demux engine error waiting for event
+[proxy:0:2@cn17] HYD_pmcd_pmip_control_cmd_cb (pm/pmiserv/pmip_cb.c:887): assert (!closed) failed
+[proxy:0:2@cn17] HYDT_dmxu_poll_wait_for_event (tools/demux/demux_poll.c:76): callback returned error status
+[proxy:0:2@cn17] main (pm/pmiserv/pmip.c:202): demux engine error waiting for event
+[mpiexec@cn18] HYDT_bscu_wait_for_completion (tools/bootstrap/utils/bscu_wait.c:76): one of the processes terminated badly; aborting
+[mpiexec@cn18] HYDT_bsci_wait_for_completion (tools/bootstrap/src/bsci_wait.c:23): launcher returned error waiting for completion
+[mpiexec@cn18] HYD_pmci_wait_for_completion (pm/pmiserv/pmiserv_pmci.c:218): launcher returned error waiting for completion
+[mpiexec@cn18] main (ui/mpich/mpiexec.c:340): process manager error waiting for completion

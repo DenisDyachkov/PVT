@@ -1,0 +1,76 @@
+[3] Time: 1538197104.539697
+[2] Time: 1538197104.540110
+[1] Time: 1538197104.541177
+[18] Time: 1538197104.564576
+[16] Time: 1538197104.566551
+[17] Time: 1538197104.568768
+[19] Time: 1538197104.579516
+[31] Time: 1538197104.601964
+[9] Time: 1538197104.602930
+[26] Time: 1538197104.766168
+[23] Time: 1538197104.845805
+[10] Time: 1538197104.853511
+[21] Time: 1538197104.860915
+[8] Time: 1538197104.863082
+[30] Time: 1538197104.865868
+[20] Time: 1538197104.867739
+[5] Time: 1538197104.875911
+[29] Time: 1538197104.878939
+[11] Time: 1538197104.878687
+[28] Time: 1538197104.896445
+[27] Time: 1538197105.047732
+[22] Time: 1538197105.047635
+[25] Time: 1538197105.051895
+[7] Time: 1538197105.056214
+[24] Time: 1538197105.057937
+[4] Time: 1538197105.064445
+[6] Time: 1538197105.064701
+[15] Time: 1538197105.588158
+[14] Time: 1538197105.589163
+[12] Time: 1538197105.589419
+[13] Time: 1538197105.589913
+[0] Time: 1538197105.597807
+Time: 1.061828
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+*** Error in `./custom_gather': free(): invalid size: 0x00007ffc0adfeaf0 ***
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+*** Error in `./custom_gather': free(): invalid size: 0x00007ffe9e844c50 ***
+free(): invalid size
+*** Error in `./custom_gather': free(): invalid size: 0x00007fff3b2c9fa0 ***
+free(): invalid size
+*** Error in `./custom_gather': free(): invalid size: 0x00007ffcd55009e0 ***
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   PID 17800 RUNNING AT cn15-comp
+=   EXIT CODE: 134
+=   CLEANING UP REMAINING PROCESSES
+=   YOU CAN IGNORE THE BELOW CLEANUP MESSAGES
+===================================================================================
+YOUR APPLICATION TERMINATED WITH THE EXIT STRING: Aborted (signal 6)
+This typically refers to a problem with your application.
+Please see the FAQ page for debugging suggestions

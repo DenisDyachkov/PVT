@@ -1,0 +1,64 @@
+[1] Time: 1538197049.501453
+[2] Time: 1538197049.501453
+[3] Time: 1538197049.501553
+[30] Time: 1538197049.504823
+[20] Time: 1538197049.502920
+[17] Time: 1538197049.503933
+[5] Time: 1538197049.505388
+[25] Time: 1538197049.505160
+[31] Time: 1538197049.504839
+[23] Time: 1538197049.502914
+[19] Time: 1538197049.503926
+[4] Time: 1538197049.505405
+[24] Time: 1538197049.505219
+[28] Time: 1538197049.504841
+[21] Time: 1538197049.502989
+[16] Time: 1538197049.503995
+[7] Time: 1538197049.505405
+[26] Time: 1538197049.505294
+[29] Time: 1538197049.504841
+[22] Time: 1538197049.503009
+[18] Time: 1538197049.503984
+[27] Time: 1538197049.505294
+[0] Time: 1538197049.505534
+Time: 0.004762
+[8] Time: 1538197049.504400
+[13] Time: 1538197049.505612
+[6] Time: 1538197049.505834
+[9] Time: 1538197049.504492
+[15] Time: 1538197049.505612
+[10] Time: 1538197049.504492
+[12] Time: 1538197049.508609
+[11] Time: 1538197049.504533
+[14] Time: 1538197049.508609
+Assertion failed in file src/mpid/ch3/src/mpid_vc.c at line 178: MPIU_Object_get_ref((vc)) >= 0
+internal ABORT - process 0
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+*** Error in `./custom_gather': free(): invalid size: 0x00007ffdb0be5520 ***
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+*** Error in `./custom_gather': free(): invalid size: 0x00007fff22e576d0 ***
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+*** Error in `./custom_gather': free(): invalid size: 0x00007fff76edcb50 ***
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+free(): invalid size
+*** Error in `./custom_gather': free(): invalid size: 0x00007ffd938b76c0 ***
+free(): invalid size
+free(): invalid size

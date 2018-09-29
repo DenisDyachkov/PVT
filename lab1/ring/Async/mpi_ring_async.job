@@ -1,0 +1,7 @@
+#PBS -N MpiRing_Async1kb
+#PBS -l nodes=4:ppn=4
+#PBS -j oe
+
+cd $PBS_O_WORKDIR
+
+mpiexec ./ring_async 1024
